@@ -1,0 +1,11 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/libsvo.so
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_feature_align
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_matcher
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_sparse_img_align
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_depth_filter
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_pipeline
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_feature_detection
+Symlinking /home/rvmi/catkin_ws/devel/lib/svo/test_pose_optimizer
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/svo.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/svo/cmake/svoConfig-version.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/svo/cmake/svoConfig.cmake

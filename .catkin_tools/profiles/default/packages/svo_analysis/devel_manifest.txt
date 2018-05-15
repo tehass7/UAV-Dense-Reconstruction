@@ -1,0 +1,2 @@
+rpg_svo/svo_analysis
+/home/rvmi/catkin_ws/devel/.private/svo_analysis/lib/python2.7/dist-packages/svo_analysis/__init__.py /home/rvmi/catkin_ws/devel/lib/python2.7/dist-packages/svo_analysis/__init__.py

@@ -1,0 +1,8 @@
+prefix=/home/rvmi/catkin_ws/install
+
+Name: opencv_test
+Description: Description of opencv_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rvmi/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/rvmi/catkin_ws/install
+
+Name: pcl_tutorial
+Description: Description of pcl_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rvmi/catkin_ws/install/lib 
+Requires: 

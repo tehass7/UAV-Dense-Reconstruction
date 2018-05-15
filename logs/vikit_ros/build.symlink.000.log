@@ -1,0 +1,4 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/libvikit_ros.so
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/vikit_ros.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake

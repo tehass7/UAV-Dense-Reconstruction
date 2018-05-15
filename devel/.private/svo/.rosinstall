@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rvmi/catkin_ws/devel/.private/svo/setup.sh

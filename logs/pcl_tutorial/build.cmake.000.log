@@ -1,0 +1,5 @@
+Not searching for unused variables given on the command line.
+CMake Error: Error in cmake code at
+/home/rvmi/catkin_ws/src/pcl_tutorial/CMakeLists.txt:207:
+Parse error.  Function missing ending ")".  End of file reached.
+[36m--[0m Configuring incomplete, errors occurred!

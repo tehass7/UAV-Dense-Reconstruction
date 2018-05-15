@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target normals[0m
+[ 33%] Built target pcl1
+[ 66%] Built target pcd_write
+[ 83%] [32mBuilding CXX object CMakeFiles/normals.dir/src/normals.cpp.o[0m
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kvoid callback(const ConstPtr&)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:3:[m[K [01;31m[Kerror: [m[K‘[01m[KNormalEstimationOMP[m[K’ is not a member of ‘[01m[Kpcl[m[K’
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K   ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:41:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K,[m[K’ token
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                         ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:54:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                                      ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:56:[m[K [01;31m[Kerror: [m[K‘[01m[Kne[m[K’ was not declared in this scope
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                                        ^[m[K
+CMakeFiles/normals.dir/build.make:62: recipe for target 'CMakeFiles/normals.dir/src/normals.cpp.o' failed
+make[2]: *** [CMakeFiles/normals.dir/src/normals.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/normals.dir/all' failed
+make[1]: *** [CMakeFiles/normals.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/rvmi/catkin_ws/devel/.private/vikit_common/lib;/opt/ros/kinetic/lib")

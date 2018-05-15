@@ -1,0 +1,8 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/librpg_open_remode_cuda.so
+Symlinking /home/rvmi/catkin_ws/devel/lib/librpg_open_remode.so
+Symlinking /home/rvmi/catkin_ws/devel/lib/rpg_open_remode/dataset_main
+Symlinking /home/rvmi/catkin_ws/devel/lib/rpg_open_remode/dataset_publisher
+Symlinking /home/rvmi/catkin_ws/devel/lib/rpg_open_remode/depthmap_node
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/rpg_open_remode.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/rpg_open_remode/cmake/rpg_open_remodeConfig.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/rpg_open_remode/cmake/rpg_open_remodeConfig-version.cmake

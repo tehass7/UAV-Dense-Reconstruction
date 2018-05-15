@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/svo_msgs/share/roseus/ros/svo_msgs/msg/Feature.l

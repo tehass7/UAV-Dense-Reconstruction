@@ -1,0 +1,19 @@
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kvoid callback(const ConstPtr&)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:20:70:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [-Wformat-extra-args]
+   printf ("Cloud: width = 640, height = 480", msg->width, msg->height);
+[01;32m[K                                                                      ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:27:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+ ne.setInputCloud(cloud);
+[01;32m[K   ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:32:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+ ne.setSearchMethod (tree);
+[01;32m[K   ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:38:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+ ne.setRadiusSearch (0.03);
+[01;32m[K   ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:41:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+ ne.compute (*cloud_normals);
+[01;32m[K   ^[m[K
+make[2]: *** [CMakeFiles/normals.dir/src/normals.cpp.o] Error 1
+make[1]: *** [CMakeFiles/normals.dir/all] Error 2
+make: *** [all] Error 2

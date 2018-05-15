@@ -1,0 +1,6 @@
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:6:1:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K{[m[K’ token
+ {
+[01;32m[K ^[m[K
+make[2]: *** [CMakeFiles/normals.dir/src/normals.cpp.o] Error 1
+make[1]: *** [CMakeFiles/normals.dir/all] Error 2
+make: *** [all] Error 2

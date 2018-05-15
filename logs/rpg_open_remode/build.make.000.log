@@ -1,0 +1,83 @@
+[  5%] [34m[1mBuilding NVCC (Device) object rpg_open_remode_cuda_generated_reduction.cu.o[0m
+[ 11%] [34m[1mBuilding NVCC (Device) object rpg_open_remode_cuda_generated_seed_matrix.cu.o[0m
+[ 23%] [34m[1mBuilding NVCC (Device) object rpg_open_remode_cuda_generated_check_cuda_device.cu.o[0m
+[ 23%] [34m[1mBuilding NVCC (Device) object rpg_open_remode_cuda_generated_depthmap_denoiser.cu.o[0m
+[35m[1mScanning dependencies of target rpg_open_remode[0m
+[35m[1mScanning dependencies of target dataset_publisher[0m
+CMake Warning (dev) at CMakeFiles/rpg_open_remode_cuda_generated_check_cuda_device.cu.o.cmake:125 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted keywords like "COMMAND" will no longer be interpreted as keywords
+  when the policy is set to NEW.  Since the policy is not set the OLD
+  behavior will be used.
+Call Stack (most recent call first):
+  CMakeFiles/rpg_open_remode_cuda_generated_check_cuda_device.cu.o.cmake:152 (cuda_execute_process)
+  
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeFiles/rpg_open_remode_cuda_generated_seed_matrix.cu.o.cmake:125 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted keywords like "COMMAND" will no longer be interpreted as keywords
+  when the policy is set to NEW.  Since the policy is not set the OLD
+  behavior will be used.
+Call Stack (most recent call first):
+  CMakeFiles/rpg_open_remode_cuda_generated_seed_matrix.cu.o.cmake:152 (cuda_execute_process)
+  
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeFiles/rpg_open_remode_cuda_generated_depthmap_denoiser.cu.o.cmake:125 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted keywords like "COMMAND" will no longer be interpreted as keywords
+  when the policy is set to NEW.  Since the policy is not set the OLD
+  behavior will be used.
+Call Stack (most recent call first):
+  CMakeFiles/rpg_open_remode_cuda_generated_depthmap_denoiser.cu.o.cmake:152 (cuda_execute_process)
+  
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeFiles/rpg_open_remode_cuda_generated_reduction.cu.o.cmake:125 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted keywords like "COMMAND" will no longer be interpreted as keywords
+  when the policy is set to NEW.  Since the policy is not set the OLD
+  behavior will be used.
+Call Stack (most recent call first):
+  CMakeFiles/rpg_open_remode_cuda_generated_reduction.cu.o.cmake:152 (cuda_execute_process)
+  
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[ 29%] [32mBuilding CXX object CMakeFiles/rpg_open_remode.dir/src/depthmap.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/dataset_publisher.dir/test/publish_dataset.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/dataset_publisher.dir/test/dataset.cpp.o[0m
+[35m[1mScanning dependencies of target rpg_open_remode_cuda[0m
+[ 47%] [32m[1mLinking CXX shared library /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/librpg_open_remode_cuda.so[0m
+[ 47%] Built target rpg_open_remode_cuda
+[ 52%] [32m[1mLinking CXX shared library /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/librpg_open_remode.so[0m
+[ 52%] Built target rpg_open_remode
+[35m[1mScanning dependencies of target dataset_main[0m
+[35m[1mScanning dependencies of target depthmap_node[0m
+[ 58%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/rpg_open_remode/dataset_publisher[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/dataset_main.dir/test/dataset.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/dataset_main.dir/test/dataset_main.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/depthmap_node.dir/src/depthmap_node.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/depthmap_node.dir/src/publisher.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/depthmap_node.dir/src/main_ros.cpp.o[0m
+[ 88%] Built target dataset_publisher
+[ 94%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/rpg_open_remode/dataset_main[0m
+[ 94%] Built target dataset_main
+[100%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/rpg_open_remode/depthmap_node[0m
+[100%] Built target depthmap_node

@@ -1,0 +1,4 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/python2.7/dist-packages/vikit_py/__init__.py
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/vikit_py.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_py/cmake/vikit_pyConfig.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_py/cmake/vikit_pyConfig-version.cmake

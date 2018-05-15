@@ -1,0 +1,8 @@
+[ 51%] Built target svo
+[ 58%] Built target test_pose_optimizer
+[ 65%] Built target test_depth_filter
+[ 72%] Built target test_sparse_img_align
+[ 79%] Built target test_feature_detection
+[ 93%] Built target test_pipeline
+[ 93%] Built target test_feature_align
+[100%] Built target test_matcher

@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target normals[0m
+[ 33%] Built target pcd_write
+[ 66%] Built target pcl1
+[ 83%] [32mBuilding CXX object CMakeFiles/normals.dir/src/normals.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/pcl_tutorial/lib/pcl_tutorial/normals[0m
+[100%] Built target normals

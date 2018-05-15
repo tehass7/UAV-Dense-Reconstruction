@@ -1,0 +1,5 @@
+[ 29%] Built target rpg_open_remode_cuda
+[ 41%] Built target rpg_open_remode
+[ 58%] Built target dataset_publisher
+[ 76%] Built target dataset_main
+[100%] Built target depthmap_node

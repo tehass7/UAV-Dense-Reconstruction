@@ -1,0 +1,20 @@
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _svo_msgs_generate_messages_check_deps_DenseInput
+[  0%] Built target _svo_msgs_generate_messages_check_deps_Feature
+[  0%] Built target _svo_msgs_generate_messages_check_deps_NbvTrajectory
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _svo_msgs_generate_messages_check_deps_Info
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[ 18%] Built target svo_msgs_generate_messages_lisp
+[ 36%] Built target svo_msgs_generate_messages_nodejs
+[ 59%] Built target svo_msgs_generate_messages_py
+[ 77%] Built target svo_msgs_generate_messages_cpp
+[100%] Built target svo_msgs_generate_messages_eus
+[100%] Built target svo_msgs_generate_messages

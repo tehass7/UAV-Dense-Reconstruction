@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/drone_ctrl/lib/pkgconfig/drone_ctrl.pc

@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/svo_msgs/share/common-lisp/ros/svo_msgs/msg/_package_NbvTrajectory.lisp

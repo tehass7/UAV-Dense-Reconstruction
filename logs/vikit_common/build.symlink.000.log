@@ -1,0 +1,7 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/libvikit_common.so
+Symlinking /home/rvmi/catkin_ws/devel/lib/vikit_common/test_vk_common_triangulation
+Symlinking /home/rvmi/catkin_ws/devel/lib/vikit_common/test_vk_common_patch_score
+Symlinking /home/rvmi/catkin_ws/devel/lib/vikit_common/test_vk_common_camera
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/vikit_common.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_common/cmake/vikit_commonConfig-version.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/vikit_common/cmake/vikit_commonConfig.cmake

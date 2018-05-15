@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/vikit_py/share/vikit_py/cmake/vikit_pyConfig-version.cmake

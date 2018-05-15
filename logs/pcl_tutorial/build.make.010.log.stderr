@@ -1,0 +1,11 @@
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kvoid callback(const ConstPtr&)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:20:70:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [-Wformat-extra-args]
+   printf ("Cloud: width = 640, height = 480", msg->width, msg->height);
+[01;32m[K                                                                      ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:34:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kcloud[m[K’ was not declared in this scope
+   ne.setInputCloud(cloud);
+[01;32m[K                    ^[m[K
+make[2]: *** [CMakeFiles/normals.dir/src/normals.cpp.o] Error 1
+make[1]: *** [CMakeFiles/normals.dir/all] Error 2
+make: *** [all] Error 2

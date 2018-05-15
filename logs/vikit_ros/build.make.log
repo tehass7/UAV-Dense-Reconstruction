@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target vikit_ros[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/vikit_ros.dir/src/output_helper.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/rvmi/catkin_ws/devel/.private/vikit_ros/lib/libvikit_ros.so[0m
+[100%] Built target vikit_ros

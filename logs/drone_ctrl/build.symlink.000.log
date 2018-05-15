@@ -1,0 +1,5 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/drone_ctrl.pc
+Symlinking /home/rvmi/catkin_ws/devel/lib/drone_ctrl/pub_setpoints
+Symlinking /home/rvmi/catkin_ws/devel/lib/drone_ctrl/offb_node
+Symlinking /home/rvmi/catkin_ws/devel/share/drone_ctrl/cmake/drone_ctrlConfig-version.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/drone_ctrl/cmake/drone_ctrlConfig.cmake

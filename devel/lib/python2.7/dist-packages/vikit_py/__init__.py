@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/vikit_py/lib/python2.7/dist-packages/vikit_py/__init__.py

@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/opencv_test/share/opencv_test/cmake/opencv_testConfig.cmake

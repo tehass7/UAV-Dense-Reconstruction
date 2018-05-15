@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/rpg_open_remode/share/rpg_open_remode/cmake/rpg_open_remodeConfig.cmake

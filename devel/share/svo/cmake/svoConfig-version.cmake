@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/svo/share/svo/cmake/svoConfig-version.cmake

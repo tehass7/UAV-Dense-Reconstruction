@@ -1,0 +1,26 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/rvmi/catkin_ws/devel/.private/drone_ctrl
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/rvmi/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/rvmi/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/rvmi/catkin_ws/build/drone_ctrl/test_results
+[36m--[0m Found gtest: gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.11
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[31m[1mCMake Error[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:196 (message):
+  catkin_package() the catkin package 'pcl_ros' has been find_package()-ed
+  but is not listed as a build dependency in the package.xml
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:106 (catkin_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/rvmi/catkin_ws/build/drone_ctrl/CMakeFiles/CMakeOutput.log".
+See also "/home/rvmi/catkin_ws/build/drone_ctrl/CMakeFiles/CMakeError.log".
+Makefile:560: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

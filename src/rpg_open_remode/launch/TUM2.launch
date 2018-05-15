@@ -1,0 +1,20 @@
+<launch>
+  <node pkg="rpg_open_remode" type="depthmap_node" name="remode" clear_params="true" output="screen">
+    <remap from="/svo/dense_input" to="/ORB/DenseInput" /> 
+    <param name="cam_width" value="640" />
+    <param name="cam_height" value="480" />
+
+    <param name="cam_fx" value="520.908620" />
+    <param name="cam_cx" value="325.141442" />
+    <param name="cam_fy" value="521.007327" />
+    <param name="cam_cy" value="249.701764" />
+
+    <param name="cam_k1" value="0.231222" />
+    <param name="cam_k2" value="-0.784899" />
+    <param name="cam_r1" value="-0.003257 " />
+    <param name="cam_r2" value="-0.000105" />
+
+    <param name="ref_compl_perc" value="30.0" />
+    <param name="publish_conv_every_n" value="3" />
+  </node>   
+</launch>

@@ -1,0 +1,3 @@
+Symlinking /home/rvmi/catkin_ws/devel/lib/pkgconfig/opencv_test.pc
+Symlinking /home/rvmi/catkin_ws/devel/share/opencv_test/cmake/opencv_testConfig.cmake
+Symlinking /home/rvmi/catkin_ws/devel/share/opencv_test/cmake/opencv_testConfig-version.cmake

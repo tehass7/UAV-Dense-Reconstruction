@@ -1,0 +1,8 @@
+[  5%] [32m[1mLinking CXX shared library /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/librpg_open_remode_cuda.so[0m
+[ 23%] Built target dataset_publisher
+[ 35%] Built target rpg_open_remode
+[ 58%] Built target rpg_open_remode_cuda
+[ 64%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/rpg_open_remode/dataset_main[0m
+[ 70%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/rpg_open_remode/lib/rpg_open_remode/depthmap_node[0m
+[ 82%] Built target dataset_main
+[100%] Built target depthmap_node

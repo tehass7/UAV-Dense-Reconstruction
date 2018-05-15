@@ -1,0 +1,6 @@
+<launch>
+	<include file="(find openni2_launch)/home/rvmi/openni2_camera/openni2_launch/launch/   		openni2.launch"/>	
+	<node name="Mono" pkg="ORB_SLAM2" type="ros_mono.cc">
+		<param
+
+</launch>

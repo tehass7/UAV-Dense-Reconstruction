@@ -1,0 +1,7 @@
+rpg_svo/svo_ros
+/home/rvmi/catkin_ws/devel/.private/svo_ros/lib/libsvo_visualizer.so /home/rvmi/catkin_ws/devel/lib/libsvo_visualizer.so
+/home/rvmi/catkin_ws/devel/.private/svo_ros/lib/svo_ros/vo /home/rvmi/catkin_ws/devel/lib/svo_ros/vo
+/home/rvmi/catkin_ws/devel/.private/svo_ros/lib/svo_ros/benchmark /home/rvmi/catkin_ws/devel/lib/svo_ros/benchmark
+/home/rvmi/catkin_ws/devel/.private/svo_ros/lib/pkgconfig/svo_ros.pc /home/rvmi/catkin_ws/devel/lib/pkgconfig/svo_ros.pc
+/home/rvmi/catkin_ws/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig.cmake /home/rvmi/catkin_ws/devel/share/svo_ros/cmake/svo_rosConfig.cmake
+/home/rvmi/catkin_ws/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig-version.cmake /home/rvmi/catkin_ws/devel/share/svo_ros/cmake/svo_rosConfig-version.cmake

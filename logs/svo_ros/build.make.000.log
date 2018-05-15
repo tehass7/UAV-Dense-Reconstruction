@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target svo_visualizer[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/svo_visualizer.dir/src/visualizer.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /home/rvmi/catkin_ws/devel/.private/svo_ros/lib/libsvo_visualizer.so[0m
+[ 33%] Built target svo_visualizer
+[35m[1mScanning dependencies of target vo[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/vo.dir/src/vo_node.cpp.o[0m
+[35m[1mScanning dependencies of target benchmark[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/benchmark.dir/src/benchmark_node.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/svo_ros/lib/svo_ros/vo[0m
+[ 83%] Built target vo
+[100%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/svo_ros/lib/svo_ros/benchmark[0m
+[100%] Built target benchmark

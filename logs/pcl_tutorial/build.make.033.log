@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target normals[0m
+[ 33%] Built target pcd_write
+[ 66%] Built target pcl1
+[ 83%] [32mBuilding CXX object CMakeFiles/normals.dir/src/normals.cpp.o[0m
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kvoid callback(const ConstPtr&)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:21:70:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [-Wformat-extra-args]
+   printf ("Cloud: width = 640, height = 480", msg->width, msg->height);
+[01;32m[K                                                                      ^[m[K
+[100%] [32m[1mLinking CXX executable /home/rvmi/catkin_ws/devel/.private/pcl_tutorial/lib/pcl_tutorial/normals[0m
+[100%] Built target normals

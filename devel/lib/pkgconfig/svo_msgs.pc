@@ -1,0 +1,1 @@
+/home/rvmi/catkin_ws/devel/.private/svo_msgs/lib/pkgconfig/svo_msgs.pc

@@ -1,0 +1,4 @@
+[ 64%] Built target vikit_common
+[ 76%] Built target test_vk_common_camera
+[ 88%] Built target test_vk_common_patch_score
+[100%] Built target test_vk_common_triangulation

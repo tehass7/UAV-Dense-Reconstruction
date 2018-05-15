@@ -1,0 +1,16 @@
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:[m[K In function ‘[01m[Kvoid callback(const ConstPtr&)[m[K’:
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:3:[m[K [01;31m[Kerror: [m[K‘[01m[KNormalEstimationOMP[m[K’ is not a member of ‘[01m[Kpcl[m[K’
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K   ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:41:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K,[m[K’ token
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                         ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:54:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                                      ^[m[K
+[01m[K/home/rvmi/catkin_ws/src/pcl_tutorial/src/normals.cpp:26:56:[m[K [01;31m[Kerror: [m[K‘[01m[Kne[m[K’ was not declared in this scope
+   pcl::NormalEstimationOMP<pcl::PointXYZ, pcl::Normal> ne;
+[01;32m[K                                                        ^[m[K
+make[2]: *** [CMakeFiles/normals.dir/src/normals.cpp.o] Error 1
+make[1]: *** [CMakeFiles/normals.dir/all] Error 2
+make: *** [all] Error 2
